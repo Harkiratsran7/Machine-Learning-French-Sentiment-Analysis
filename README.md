@@ -1,2 +1,1 @@
-# Machine-Learning-French-Sentiment-Analysis
-French sentiment analysis with BERT
+# French sentiment analysis with BERT
