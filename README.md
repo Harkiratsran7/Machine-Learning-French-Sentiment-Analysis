@@ -1,4 +1,4 @@
-# Real or Fake Text (RoFT) Dataset
+# Real or Fake Text (RoFT)
 
 The columns of the `roft.csv` file are as follows:
 1. date -- the date and time that the annotator submitted the annotation
