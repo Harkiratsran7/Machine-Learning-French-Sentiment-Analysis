@@ -1,2 +1,3 @@
-# French sentiment analysis with BERT
-Research Paper Reference: https://arxiv.org/pdf/1912.05372v4.pdf
+# RoFT: Real or Fake Text?
+
+Research Paper Reference: https://arxiv.org/abs/2010.03070
